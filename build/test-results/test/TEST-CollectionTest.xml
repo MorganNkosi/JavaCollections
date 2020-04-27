@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CollectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-22T21:48:31" hostname="ZAMOKUHLE" time="0.005">
+  <properties/>
+  <testcase name="shouldArrayList" classname="CollectionTest" time="0.005"/>
+  <system-out><![CDATA[[A, B, C, D, E]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
